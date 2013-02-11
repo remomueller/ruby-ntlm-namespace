@@ -7,6 +7,13 @@ This library supports NTLM v1 only.
 NTLM authentication is used in Microsoft's server products,
 such as MS Exchange Server and IIS.
 
+ruby-ntlm-namespace
+-------------------
+
+This is a fork of [mademaxus' namespace fix](https://github.com/mademaxus/ruby-ntlm) for the [macks' ruby-ntlm](https://github.com/macks/ruby-ntlm).
+
+This gem release is only meant to help those experiencing the namespace issues with macks' ruby-ntlm and a simple dropin for Ruby on Rails gem files.
+
 
 Install
 -------
